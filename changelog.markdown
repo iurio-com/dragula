@@ -1,3 +1,7 @@
+# 3.7.4 Add grab delay
+
+- Add optional grabDelay
+
 # 3.7.3 Fix touch dragging
 
 - Fixed dragging on touch devices
