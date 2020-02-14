@@ -1,3 +1,7 @@
+# 3.7.3 Fix touch dragging
+
+- Fixed dragging on touch devices
+
 # 3.7.2 Parental Control
 
 - Fixed a bug where a missing parent check would cause exceptions
